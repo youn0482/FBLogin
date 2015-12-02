@@ -1,0 +1,28 @@
+{
+  "name": "LoginApp",
+  "private": true,
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.1.1"
+  },
+  "dependencies": {
+    "angular-animate": "1.4.3",
+    "angular-sanitize": "1.4.3",
+    "angular-ui-router": "0.2.13"
+  },
+  "authors": [
+    "m4ttyng <youn0482@algonquinlive.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib",
+    "test",
+    "tests"
+  ]
+}
